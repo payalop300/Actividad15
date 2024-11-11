@@ -1,0 +1,83 @@
+/* Estilos para el cuerpo del texto */
+body {
+    background-color: #eee;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+#titulo {
+    margin: 0 0 15px 0;
+    font-size: 2em;
+    letter-spacing: .2rem;
+    text-shadow: 8px 8px 2px black;
+}
+
+/* Estilos para la barra de navegación */
+#menuPrincipal {
+    background-color: #444;
+    padding: 5px 0;
+}
+
+#menuPrincipal ul {
+    list-style: none;
+    padding: 0;
+}
+
+#menuPrincipal ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+/* Estilos para los enlaces */
+.enlaceMenuPrincipal {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+.enlaceMenuPrincipal:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+/* Estilos para la sección principal */
+.tituloSeccion {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 5px;
+}
+
+article {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+
+
